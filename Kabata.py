@@ -1,0 +1,4 @@
+"""Kabata"""
+def main():
+
+main()
